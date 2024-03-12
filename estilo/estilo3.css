@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: #000;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h1{
+    margin-bottom: 1rem;
+    color: #ff9900;
+    font-weight: 900;
+}
+
+h2{
+    color: #0789c9; 
+    font-weight: 900;
+}
+
+p{
+    margin-bottom: 1rem;
+}
+
+img{
+    width: 100%;
+    height: auto;
+    margin: 1rem 0;
+    border-radius: 2vw;
+    box-shadow: 1vh 1vw rgba(0, 0, 0, 0.5);
+}
+
+main{
+    background-color: #fff;
+    padding: 3rem;
+    margin: 3rem auto;
+    max-width: 800px;
+    display: block;
+    border-radius: 3vw;
+
+}
